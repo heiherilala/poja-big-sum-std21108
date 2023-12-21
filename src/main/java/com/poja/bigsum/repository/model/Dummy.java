@@ -5,7 +5,7 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import lombok.Getter;
 import lombok.Setter;
-
+//ff
 @PojaGenerated
 @Entity
 @Getter
